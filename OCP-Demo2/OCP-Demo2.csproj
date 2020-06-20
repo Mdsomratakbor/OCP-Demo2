@@ -46,6 +46,7 @@
     <Compile Include="BaseSalaryCalculator.cs" />
     <Compile Include="DeveloperReport.cs" />
     <Compile Include="IDeveloperReport.cs" />
+    <Compile Include="JuniorDevSalaryCalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SeniorDevSalaryCalculator.cs" />
