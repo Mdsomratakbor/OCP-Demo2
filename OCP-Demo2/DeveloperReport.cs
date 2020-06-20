@@ -11,7 +11,7 @@ namespace OCP_Demo2
         public int ID { get; set; }
         public string Name { get; set; }
         public string Level { get; set; }
-        public string WorkingHours { get; set; }
+        public float WorkingHours { get; set; }
         public double HourlyRate { get; set; }
 
     }
