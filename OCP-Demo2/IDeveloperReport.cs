@@ -6,6 +6,6 @@
         int ID { get; set; }
         string Level { get; set; }
         string Name { get; set; }
-        int WorkingHours { get; set; }
+        float WorkingHours { get; set; }
     }
 }
